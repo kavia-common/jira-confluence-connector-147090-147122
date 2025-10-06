@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/jira-confluence-connector-147090-147122/jira_confluence_connector_frontend"
+}
